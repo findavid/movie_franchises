@@ -1,2 +1,2 @@
-# A small project on movie franchises and their gross
+# A small notebook on movie franchises and their gross
 
